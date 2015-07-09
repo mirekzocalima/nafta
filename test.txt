@@ -1,0 +1,160 @@
+
+Crossing Lasso  Press Spacebar to cycle options20 found
+Select objects:
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbd386
+              from point, X= 695797.6  Y=8827146.5  Z=      0.0
+                to point, X= 694271.7  Y=8828444.4  Z=      0.0
+          Length =   2003.3,  Angle in XY Plane =    140
+                  Delta X =  -1525.9, Delta Y =    1298.0, Delta Z =      0.0
+                  LWPOLYLINE  Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbeed2
+              Open
+    Constant width       0.0
+              area   504223.4
+            length   5568.6
+          at point  X= 709256.7  Y=8821682.6  Z=      0.0
+          at point  X= 707033.9  Y=8822179.2  Z=      0.0
+             bulge       0.0
+            center  X= 706706.9  Y=8820715.3  Z=      0.0
+            radius    1500.0
+Press ENTER to continue:
+       start angle        77
+         end angle        85
+          at point  X= 706836.4  Y=8822209.7  Z=      0.0
+          at point  X= 703756.9  Y=8822476.5  Z=      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbcaea
+              from point, X= 706382.9  Y=8823726.9  Z=      0.0
+                to point, X= 703743.8  Y=8822496.4  Z=      0.0
+          Length =   2911.9,  Angle in XY Plane =    205
+                  Delta X =  -2639.1, Delta Y =   -1230.5, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbcae4
+              from point, X= 707399.4  Y=8818334.5  Z=      0.0
+                to point, X= 706808.8  Y=8816815.9  Z=      0.0
+          Length =   1629.4,  Angle in XY Plane =    249
+                  Delta X =   -590.6, Delta Y =   -1518.6, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+Press ENTER to continue:
+                            Space: Model space
+                   Handle = fbcaba
+              from point, X= 691868.5  Y=8828329.8  Z=      0.0
+                to point, X= 694201.7  Y=8828405.1  Z=      0.0
+          Length =   2334.3,  Angle in XY Plane =      2
+                  Delta X =   2333.1, Delta Y =      75.3, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbcab4
+              from point, X= 695855.7  Y=8829290.2  Z=      0.0
+                to point, X= 694247.3  Y=8828461.9  Z=      0.0
+          Length =   1809.1,  Angle in XY Plane =    207
+                  Delta X =  -1608.4, Delta Y =    -828.3, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbcaa8
+              from point, X= 701521.7  Y=8828683.0  Z=      0.0
+                to point, X= 700274.6  Y=8826834.2  Z=      0.0
+          Length =   2230.1,  Angle in XY Plane =    236
+                  Delta X =  -1247.1, Delta Y =   -1848.8, Delta Z =      0.0
+Press ENTER to continue:
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbcaa2
+              from point, X= 698723.0  Y=8827858.1  Z=      0.0
+                to point, X= 700215.2  Y=8826788.6  Z=      0.0
+          Length =   1835.8,  Angle in XY Plane =    324
+                  Delta X =   1492.1, Delta Y =   -1069.4, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbcad8
+              from point, X= 688939.5  Y=8822672.9  Z=      0.0
+                to point, X= 689863.6  Y=8823545.0  Z=      0.0
+          Length =   1270.6,  Angle in XY Plane =     43
+                  Delta X =    924.1, Delta Y =     872.1, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca9c
+              from point, X= 702748.3  Y=8826433.2  Z=      0.0
+                to point, X= 700293.4  Y=8826811.1  Z=      0.0
+Press ENTER to continue:
+          Length =   2483.8,  Angle in XY Plane =    171
+                  Delta X =  -2454.9, Delta Y =     377.9, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca96
+              from point, X= 699652.6  Y=8824710.2  Z=      0.0
+                to point, X= 700242.0  Y=8826763.0  Z=      0.0
+          Length =   2135.7,  Angle in XY Plane =     74
+                  Delta X =    589.4, Delta Y =    2052.8, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca90
+              from point, X= 697272.8  Y=8819528.7  Z=      0.0
+                to point, X= 695875.8  Y=8821600.9  Z=      0.0
+          Length =   2499.1,  Angle in XY Plane =    124
+                  Delta X =  -1396.9, Delta Y =    2072.2, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca8a
+Press ENTER to continue:
+              from point, X= 697563.0  Y=8819628.5  Z=      0.0
+                to point, X= 695888.0  Y=8821626.1  Z=      0.0
+          Length =   2606.9,  Angle in XY Plane =    130
+                  Delta X =  -1675.0, Delta Y =    1997.6, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca84
+              from point, X= 703152.2  Y=8823633.7  Z=      0.0
+                to point, X= 703700.5  Y=8822490.4  Z=      0.0
+          Length =   1268.0,  Angle in XY Plane =    296
+                  Delta X =    548.4, Delta Y =   -1143.3, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca7e
+              from point, X= 702482.2  Y=8822831.7  Z=      0.0
+                to point, X= 703691.2  Y=8822474.9  Z=      0.0
+          Length =   1260.5,  Angle in XY Plane =    344
+                  Delta X =   1208.9, Delta Y =    -356.7, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+Press ENTER to continue:
+                            Space: Model space
+                   Handle = fbca78
+              from point, X= 691458.6  Y=8822438.3  Z=      0.0
+                to point, X= 689921.8  Y=8823599.0  Z=      0.0
+          Length =   1925.9,  Angle in XY Plane =    143
+                  Delta X =  -1536.8, Delta Y =    1160.7, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca72
+              from point, X= 697075.2  Y=8822069.0  Z=      0.0
+                to point, X= 695885.4  Y=8821653.5  Z=      0.0
+          Length =   1260.2,  Angle in XY Plane =    199
+                  Delta X =  -1189.8, Delta Y =    -415.4, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca54
+              from point, X= 701148.4  Y=8817143.8  Z=      0.0
+                to point, X= 700413.4  Y=8815620.0  Z=      0.0
+          Length =   1691.9,  Angle in XY Plane =    244
+                  Delta X =   -735.1, Delta Y =   -1523.9, Delta Z =      0.0
+Press ENTER to continue:
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca4e
+              from point, X= 700791.8  Y=8817207.0  Z=      0.0
+                to point, X= 700348.4  Y=8815610.5  Z=      0.0
+          Length =   1656.9,  Angle in XY Plane =    254
+                  Delta X =   -443.4, Delta Y =   -1596.5, Delta Z =      0.0
+                  LINE      Layer: "10IN FLOWLINE"
+                            Space: Model space
+                   Handle = fbca39
+              from point, X= 692533.7  Y=8816943.6  Z=      0.0
+                to point, X= 693428.3  Y=8815771.5  Z=      0.0
+          Length =   1474.5,  Angle in XY Plane =    307
+                  Delta X =    894.6, Delta Y =   -1172.1, Delta Z =      0.0
+
