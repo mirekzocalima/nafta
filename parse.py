@@ -23,7 +23,8 @@ class LayerReader:
             raise StopIteration
 
         for line in self.fh:
-            line = line.strip()
+            # Remove ^M at the end of each file
+            line = line.replace(r'\r','').strip()
             if len(line) == 0: continue
             self._stack.append(line)
             if 'Layer: ' in line:
@@ -63,7 +64,7 @@ class Layer:
     def _getPoints(self):
         ret = []
         for l in self._record:
-            if 'point' in l:
+            if ' point' in l:
                 z = Point(l)
                 ret.append(z)
         return ret
@@ -71,7 +72,11 @@ class Layer:
 class Point:
 
     def __init__(self, line):
-        self.what, self.X, self.Y, self.Z = point_regex.search(line).groups()
+        try:
+            self.what, self.X, self.Y, self.Z = point_regex.search(line).groups()
+        except AttributeError:
+            print >> sys.stderr, 'Duude: "%s"' % (line,)
+            raise
 
 def print_details(input_file):
     for layer in LayerReader(input_file):
@@ -80,6 +85,8 @@ def print_details(input_file):
         print 'Layer Type: %s' % (layer.layer_type,)
         for i, point in enumerate(layer.pointLst):
             print '  %2d: %s: X = %s Y = %s Z = %s' % (i+1, point.what, point.X, point.Y, point.Z)
+
+#class 
 
 def print_table(input_file):
 
